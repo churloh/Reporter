@@ -1,16 +1,28 @@
 ﻿using System.Data.Entity;
 using Abp.Domain.Repositories.EntityFramework;
+using Reporter.Users;
 
 namespace Reporter.EntityFramework
 {
     public class ReporterDbContext : AbpDbContext
     {
-        //TODO: Define an IDbSet for each Entity...
-
-        //public virtual IDbSet<Person> People { get; set; } //Sample
+        public virtual IDbSet<User> Users { get; set; }
 
         public ReporterDbContext()
-            : base("MainDb")
+            : base("Default")
+        {
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="nameOrConnectionString"></param>
+        /// <remarks>
+        /// This constructor is used by ABP to pass connection string defined in ReporterDataModule.PreInitialize.
+        /// Notice that, actually you will not directly create an instance of ReporterDbContext since ABP automatically handles it.
+        /// </remarks>
+        public ReporterDbContext(string nameOrConnectionString)
+            : base(nameOrConnectionString)
         {
 
         }
