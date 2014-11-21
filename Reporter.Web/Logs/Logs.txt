@@ -63,3 +63,1063 @@ DEBUG 2014-11-12 19:51:37,663 [1    ] Abp.Modules.AbpModuleLoader              -
 DEBUG 2014-11-12 19:51:37,664 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-11-12 19:51:37,664 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-11-12 19:51:37,849 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-12 20:59:28,301 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-12 20:59:28,371 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,372 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,374 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,383 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,383 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,386 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,740 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,740 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,741 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,742 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,742 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-12 20:59:28,923 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:06:50,753 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:06:50,810 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:50,811 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:50,813 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:50,820 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:50,820 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:50,823 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,115 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,116 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,117 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,118 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,118 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:06:51,280 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:13:31,451 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:13:32,072 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,073 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,075 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,082 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,082 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,086 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,390 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,390 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,391 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,393 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,393 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:13:32,547 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:20:53,400 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:20:54,024 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,025 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,027 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,034 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,034 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,036 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,325 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,325 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,326 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,328 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,328 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:20:54,476 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:23:32,190 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:23:32,801 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:32,802 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:32,804 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:32,811 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:32,811 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:32,813 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,110 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,110 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,111 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,112 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,112 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:23:33,264 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:26:59,240 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:26:59,950 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:26:59,951 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:26:59,953 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:26:59,959 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:26:59,959 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:26:59,961 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,261 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,261 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,262 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,264 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,264 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:27:00,414 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:29:07,566 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:29:07,620 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,620 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,622 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,628 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,628 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,631 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,926 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,926 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,927 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,928 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:07,928 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:29:08,076 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:41:33,756 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:41:34,531 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,532 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,534 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,541 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,541 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,544 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,890 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,890 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,892 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,894 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:34,894 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:41:35,057 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:55:08,549 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:55:08,625 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,626 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,629 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,638 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,638 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,640 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,963 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,963 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,964 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,966 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:08,966 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:55:09,153 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 20:56:07,609 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:56:09,138 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,138 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,140 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,147 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,147 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,150 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,421 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,421 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,422 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,423 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,423 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:56:09,557 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+ERROR 2014-11-20 20:56:37,771 [5    ] Default                                  - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+System.Web.HttpException (0x80004005): Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'. ---> System.Web.HttpException (0x80004005): Execution of the child request failed. Please examine the InnerException for more information. ---> System.Web.HttpException (0x80004005): A public action method 'UsersGridViewPartial' was not found on controller 'Reporter.Web.Controllers.UsersController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.<>c__DisplayClassa.<EndProcessRequest>b__9()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.<>c__DisplayClass4.<Wrap>b__3()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap(Action action)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.HttpServerUtilityWrapper.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.Mvc.Html.ChildActionExtensions.ActionHelper(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues, TextWriter textWriter)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName)
+   at ASP._Page_Views_Users_Index_cshtml.Execute() in c:\Users\admin\Documents\GitHub\Reporter\Reporter.Web\Views\Users\Index.cshtml:line 1
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+ERROR 2014-11-20 20:57:02,025 [5    ] Default                                  - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+System.Web.HttpException (0x80004005): Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'. ---> System.Web.HttpException (0x80004005): Execution of the child request failed. Please examine the InnerException for more information. ---> System.Web.HttpException (0x80004005): A public action method 'UsersGridViewPartial' was not found on controller 'Reporter.Web.Controllers.UsersController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.<>c__DisplayClassa.<EndProcessRequest>b__9()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.<>c__DisplayClass4.<Wrap>b__3()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap(Action action)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.HttpServerUtilityWrapper.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.Mvc.Html.ChildActionExtensions.ActionHelper(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues, TextWriter textWriter)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName)
+   at ASP._Page_Views_Users_Index_cshtml.Execute() in c:\Users\admin\Documents\GitHub\Reporter\Reporter.Web\Views\Users\Index.cshtml:line 1
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2014-11-20 20:57:40,371 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 20:57:41,895 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:41,896 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:41,899 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:41,905 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:41,905 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:41,907 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,206 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,206 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,208 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,209 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,209 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 20:57:42,349 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 21:00:13,949 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 21:00:14,023 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,023 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,025 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,032 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,032 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,035 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,372 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,372 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,373 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,374 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,374 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:00:14,533 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+ERROR 2014-11-20 21:00:34,481 [6    ] Default                                  - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+System.Web.HttpException (0x80004005): Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'. ---> System.Web.HttpException (0x80004005): Execution of the child request failed. Please examine the InnerException for more information. ---> System.Web.HttpException (0x80004005): A public action method 'UsersGridViewPartial' was not found on controller 'Reporter.Web.Controllers.UsersController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.<>c__DisplayClassa.<EndProcessRequest>b__9()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.<>c__DisplayClass4.<Wrap>b__3()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap(Action action)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.HttpServerUtilityWrapper.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.Mvc.Html.ChildActionExtensions.ActionHelper(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues, TextWriter textWriter)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName)
+   at ASP._Page_Views_Users_Index_cshtml.Execute() in c:\Users\admin\Documents\GitHub\Reporter\Reporter.Web\Views\Users\Index.cshtml:line 1
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2014-11-20 21:01:43,140 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 21:01:44,638 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,639 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,641 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,646 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,646 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,649 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,907 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,907 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,908 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,909 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:44,909 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:01:45,071 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 21:02:30,647 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 21:02:32,150 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,150 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,152 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,158 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,158 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,161 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,454 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,454 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,455 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,457 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,457 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:02:32,619 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 21:03:14,571 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 21:03:16,107 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,108 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,110 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,117 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,118 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,120 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,409 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,409 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,410 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,411 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,411 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:03:16,553 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 21:12:47,740 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 21:12:47,820 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:47,821 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:47,823 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:47,830 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:47,830 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:47,832 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,150 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,150 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,151 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,153 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,153 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 21:12:48,319 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+ERROR 2014-11-20 21:13:33,346 [6    ] Default                                  - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+System.Web.HttpException (0x80004005): Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'. ---> System.Exception: To work properly, DevExpress components require ASPxHttpHandlerModule registered in the web.config file. For details, see: http://documentation.devexpress.com/#AspNet/CustomDocument7540
+   at DevExpress.Web.Mvc.ExtensionBase.AssertModuleRegistration()
+   at DevExpress.Web.Mvc.ExtensionBase.Render()
+   at DevExpress.Web.Mvc.ExtensionBase.<GetHtml>b__0()
+   at DevExpress.Web.Mvc.Internal.Utils.GetInnerWriterOutput(Action renderDelegate)
+   at DevExpress.Web.Mvc.ExtensionBase.GetHtml()
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ASP._Page_Views_Users__UsersGridViewPartial_cshtml.Execute() in c:\Users\admin\Documents\GitHub\Reporter\Reporter.Web\Views\Users\_UsersGridViewPartial.cshtml:line 35
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.<>c__DisplayClassa.<EndProcessRequest>b__9()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.<>c__DisplayClass4.<Wrap>b__3()
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap[TResult](Func`1 func)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerWrapper.Wrap(Action action)
+   at System.Web.Mvc.HttpHandlerUtil.ServerExecuteHttpHandlerAsyncWrapper.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage)
+   at System.Web.HttpServerUtility.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.HttpServerUtilityWrapper.Execute(IHttpHandler handler, TextWriter writer, Boolean preserveForm)
+   at System.Web.Mvc.Html.ChildActionExtensions.ActionHelper(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues, TextWriter textWriter)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName, String controllerName, RouteValueDictionary routeValues)
+   at System.Web.Mvc.Html.ChildActionExtensions.Action(HtmlHelper htmlHelper, String actionName)
+   at ASP._Page_Views_Users_Index_cshtml.Execute() in c:\Users\admin\Documents\GitHub\Reporter\Reporter.Web\Views\Users\Index.cshtml:line 1
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2014-11-20 22:54:57,310 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 22:54:57,390 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,391 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,393 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,401 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,401 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,404 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,726 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,726 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,728 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,729 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,729 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:54:57,899 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 22:56:56,945 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 22:56:57,057 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,058 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,061 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,069 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,069 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,073 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,458 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,458 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,459 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,461 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,461 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 22:56:57,632 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:01:05,392 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:01:05,477 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,479 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,480 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,487 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,487 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,491 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,813 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,813 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,814 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,815 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,815 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:01:05,981 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:11:30,815 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:11:30,894 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:30,896 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:30,898 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:30,908 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:30,908 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:30,913 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:31,265 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:31,265 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:31,266 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:35,636 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:35,636 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:11:38,453 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:22:19,037 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:22:19,115 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,116 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,118 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,126 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,126 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,129 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,464 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,464 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:19,465 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:22,752 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:22,752 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:22:23,905 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:26:45,649 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:26:45,725 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:45,725 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:45,727 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:45,734 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:45,734 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:45,737 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:46,061 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:46,061 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:46,063 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:48,415 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:48,415 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:26:49,521 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:27:40,999 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:27:41,078 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,078 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,080 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,088 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,088 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,092 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,391 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,391 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:41,392 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:43,551 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:43,551 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:27:44,649 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:35:05,968 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:35:06,069 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,070 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,072 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,080 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,080 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,083 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,385 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,385 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:06,387 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:10,219 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:10,219 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:35:11,479 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:37:05,907 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:37:07,689 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,690 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,693 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,700 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,700 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,702 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,966 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,966 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:07,967 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,000 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:37:51,076 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,077 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,079 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,086 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,086 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,088 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,388 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,388 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:51,389 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:53,779 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:53,779 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:37:54,959 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-20 23:47:22,432 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-20 23:47:22,515 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,516 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,520 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,528 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,528 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,532 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,860 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,861 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-20 23:47:22,862 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,608 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-21 07:25:14,754 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,755 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,758 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,765 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,766 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:14,769 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:15,147 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:15,147 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:15,148 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:42,278 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:25:42,278 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:02,989 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-21 07:26:05,126 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,127 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,130 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,138 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,138 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,141 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,439 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,439 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:05,440 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:47,437 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:26:47,438 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:27:34,895 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-21 07:37:29,353 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-11-21 07:37:29,447 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,448 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,451 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,458 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,458 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,461 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,789 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,789 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:29,790 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:34,350 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:34,350 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 07:37:36,767 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-11-21 08:44:51,856 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:44:52,727 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:52,738 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:52,738 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:44:52,738 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:44:52,741 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:52,745 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:52,745 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:44:52,745 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:44:52,755 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:44:52,765 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:44:52,766 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:44:52,808 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:44:52,808 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:44:52,809 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:44:52,819 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:44:53,112 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:44:53,121 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:44:53,130 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,130 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:44:53,161 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:53,162 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:53,162 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:44:53,162 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:44:53,163 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:44:53,195 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:44:53,195 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,215 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:44:53,215 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:44:53,215 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,245 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,297 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,302 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,342 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,349 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,367 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,367 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,378 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,379 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:44:53,428 [1    ] Abp.Modules.DefaultModuleFinder          - Found 9 ABP modules in total.
+DEBUG 2014-11-21 08:46:01,447 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:46:02,311 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,323 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,323 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:46:02,323 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,326 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,326 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:46:02,326 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,327 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,327 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:46:02,327 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,331 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,331 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:46:02,331 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:46:02,338 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:46:02,353 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:46:02,354 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:46:02,399 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:46:02,399 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:46:02,400 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:46:02,411 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:46:02,676 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:46:02,685 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:46:02,693 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,693 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:46:02,722 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,723 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,723 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:46:02,723 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:46:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:46:02,747 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:46:02,747 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,764 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:46:02,764 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:46:02,764 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,789 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,821 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,825 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,869 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,872 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,893 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,894 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,904 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,904 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:46:02,962 [1    ] Abp.Modules.DefaultModuleFinder          - Found 9 ABP modules in total.
+DEBUG 2014-11-21 08:48:01,848 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:48:02,629 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:02,642 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:02,642 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:48:02,642 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:48:02,646 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:02,649 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:02,649 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:48:02,649 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:48:02,658 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:48:02,668 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:48:02,671 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:48:02,710 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:48:02,710 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:48:02,710 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:48:02,724 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:48:03,019 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:48:03,029 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:48:03,038 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,039 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:48:03,065 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:03,067 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:03,067 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:48:03,067 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:48:03,068 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:48:03,091 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:48:03,091 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,104 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:48:03,104 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:48:03,104 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,128 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,160 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,163 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,201 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,203 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,217 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,217 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,226 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,226 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:48:03,269 [1    ] Abp.Modules.DefaultModuleFinder          - Found 9 ABP modules in total.
+DEBUG 2014-11-21 08:50:37,191 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:50:38,094 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,109 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,109 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:50:38,109 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,111 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,111 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:50:38,111 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,121 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,121 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-21 08:50:38,121 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,122 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,122 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:50:38,122 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,125 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,125 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:50:38,125 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:50:38,133 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:50:38,146 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:50:38,147 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:50:38,194 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:50:38,194 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:50:38,194 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:50:38,208 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:50:38,477 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:50:38,487 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:50:38,494 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,494 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:50:38,523 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,523 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,524 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:50:38,524 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,524 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,524 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:50:38,524 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,525 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,525 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:50:38,525 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:50:38,526 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:50:38,556 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:50:38,556 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,570 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:50:38,570 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:50:38,570 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,597 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,630 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,633 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,678 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,682 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,702 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,702 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,709 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,710 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:50:38,752 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-21 08:50:38,759 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,761 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,761 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,761 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,761 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,761 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,762 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,762 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,762 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,762 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:50:38,765 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-21 08:55:11,128 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:55:11,997 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,020 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,021 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:55:12,021 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,024 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,024 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:55:12,024 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,033 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,033 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-21 08:55:12,033 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,034 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,034 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:55:12,034 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,038 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,038 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:55:12,038 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:55:12,044 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:55:12,056 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:55:12,058 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:55:12,099 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:55:12,099 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:55:12,100 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:55:12,111 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:55:12,419 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:55:12,436 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:55:12,443 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,443 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:55:12,474 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,474 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,475 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:55:12,475 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,475 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,475 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:55:12,475 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,476 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,476 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:55:12,476 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:55:12,477 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:55:12,505 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:55:12,505 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,517 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:55:12,517 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:55:12,517 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,538 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,568 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,572 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,618 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,622 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,642 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,642 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,649 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,649 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:55:12,693 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-21 08:55:12,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:55:12,707 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-21 08:59:33,483 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 08:59:34,369 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,381 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,381 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 08:59:34,381 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,384 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,384 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 08:59:34,384 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,391 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,391 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-21 08:59:34,391 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,392 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,392 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 08:59:34,392 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,395 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,395 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 08:59:34,395 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 08:59:34,404 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:59:34,416 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 08:59:34,417 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:59:34,460 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:59:34,460 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:59:34,460 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 08:59:34,471 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:59:34,768 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 08:59:34,777 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 08:59:34,787 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,787 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 08:59:34,811 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 08:59:34,812 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,814 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,814 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 08:59:34,814 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 08:59:34,815 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:59:34,840 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:59:34,840 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,849 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:59:34,849 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 08:59:34,849 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,869 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,901 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,905 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,956 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,958 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,971 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,971 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,980 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:34,980 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 08:59:35,031 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-21 08:59:35,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 08:59:35,045 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-21 09:01:58,963 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-21 09:02:02,025 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,036 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,036 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-21 09:02:02,036 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,040 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,040 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-21 09:02:02,040 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,049 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,049 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-21 09:02:02,049 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,050 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,050 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-21 09:02:02,050 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,054 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,055 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-21 09:02:02,055 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-21 09:02:02,063 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 09:02:02,081 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-21 09:02:02,082 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 09:02:02,117 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 09:02:02,117 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 09:02:02,117 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-21 09:02:02,125 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 09:02:02,347 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-21 09:02:02,355 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-21 09:02:02,361 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,361 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterApplicationModule
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterCoreModule
+DEBUG 2014-11-21 09:02:02,386 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,387 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,387 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterDataModule
+DEBUG 2014-11-21 09:02:02,387 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.Web.ReporterWebModule
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - - Reporter.ReporterWebApiModule
+DEBUG 2014-11-21 09:02:02,388 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 09:02:02,408 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 09:02:02,408 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,418 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 09:02:02,419 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-21 09:02:02,419 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,441 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,471 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,475 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,518 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,520 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,535 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,535 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,542 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,543 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-21 09:02:02,586 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-21 09:02:02,596 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterApplicationModule, Reporter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterCoreModule, Reporter.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterDataModule, Reporter.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.Web.ReporterWebModule, Reporter.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Reporter.ReporterWebApiModule, Reporter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-21 09:02:02,604 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.

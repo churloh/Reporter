@@ -1,27 +1,15 @@
-﻿using System;
-using System.Reflection;
-using Abp.Dependency;
+﻿using System.Reflection;
 using Abp.Modules;
-using Abp.Startup;
-using Abp.Startup.Application;
 
 namespace Reporter
 {
+    [DependsOn(typeof(ReporterCoreModule))]
     public class ReporterApplicationModule : AbpModule
     {
-        public override Type[] GetDependedModules()
+        public override void Initialize()
         {
-            return new[]
-                   {
-                       typeof(AbpApplicationModule),
-                       typeof(ReporterCoreModule)
-                   };
-        }
-
-        public override void Initialize(IAbpInitializationContext initializationContext)
-        {
-            base.Initialize(initializationContext);
-            IocManager.Instance.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
+            IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
+            DtoMappings.Map();
         }
     }
 }

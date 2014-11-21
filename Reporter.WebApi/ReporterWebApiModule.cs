@@ -1,29 +1,18 @@
 ﻿using System;
 using System.Reflection;
-using Abp.Dependency;
+using Abp.Application.Services;
 using Abp.Modules;
-using Abp.Startup;
-using Abp.Startup.Application;
-using Abp.WebApi.Startup;
+using Abp.WebApi;
+using Abp.WebApi.Controllers.Dynamic.Builders;
 
 namespace Reporter
 {
+    [DependsOn(typeof(AbpWebApiModule), typeof(ReporterApplicationModule))]
     public class ReporterWebApiModule : AbpModule
     {
-        public override Type[] GetDependedModules()
+        public override void Initialize()
         {
-            return new[]
-                   {
-                       typeof(AbpApplicationModule),
-                       typeof(AbpWebApiModule),
-                       typeof(ReporterApplicationModule)
-                   };
-        }
-
-        public override void Initialize(IAbpInitializationContext initializationContext)
-        {
-            base.Initialize(initializationContext);
-            IocManager.Instance.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
+            IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
         }
     }
 }

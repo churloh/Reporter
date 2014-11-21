@@ -6,7 +6,7 @@ namespace Reporter.Web.Controllers
     {
         protected ReporterControllerBase()
         {
-            LocalizationSourceName = "Reporter";
+            LocalizationSourceName = ReporterConsts.LocalizationSourceName;
         }
     }
 }

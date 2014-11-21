@@ -1,6 +1,6 @@
 ﻿using System;
+using Abp.Web;
 using Abp.Dependency;
-using Abp.Web.Startup;
 using Castle.Facilities.Logging;
 
 namespace Reporter.Web
